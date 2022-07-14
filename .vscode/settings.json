@@ -1,0 +1,43 @@
+{
+	"window.zoomLevel": 1,
+	"update.showReleaseNotes": false,
+
+	"editor.cursorBlinking": "phase",
+	"editor.fontSize": 14,
+	"editor.tabSize": 2,
+	"editor.detectIndentation": false,
+	"editor.wordWrap": "on",
+	"editor.minimap.enabled": false,
+	"editor.hover.enabled": false,
+	"editor.smoothScrolling": true,
+	"editor.wordSeparators": "`~!@#$%^&*()-_=+[{]}\\|;:'\",.<>/?",
+	"editor.semanticHighlighting.enabled": false,
+	"editor.lightbulb.enabled": false,
+
+	"files.autoSave": "afterDelay",
+	"files.insertFinalNewline": false,
+	"files.trimFinalNewlines": true,
+	"files.trimTrailingWhitespace": true,
+
+	"terminal.integrated.fontSize": 14,
+	"terminal.integrated.defaultProfile.windows": "Git Bash",
+
+	"workbench.tips.enabled": false,
+	"workbench.editor.untitled.hint": "hidden",
+	"workbench.colorTheme": "Atom One Dark",
+	"workbench.iconTheme": "vscode-icons",
+	"workbench.startupEditor": "newUntitledFile",
+
+	"explorer.compactFolders": false,
+	"explorer.confirmDelete": false,
+	"explorer.confirmDragAndDrop": false,
+
+	"git.confirmSync": false,
+	"git.enableSmartCommit": true,
+
+  "liveServer.settings.donotShowInfoMsg": true,
+
+  "emmet.showAbbreviationSuggestions": true,
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.triggerExpansionOnTab": true
+}
